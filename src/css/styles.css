@@ -11,3 +11,10 @@ body {
   color: #212121;
   line-height: 1.5;
 }
+.search-form {
+  display: flex;
+  justify-content: center;
+
+  padding: 10px 0;
+  background-color: #0047ff;
+}
